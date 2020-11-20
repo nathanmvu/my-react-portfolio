@@ -1,6 +1,5 @@
 #intro {
   color: #1e90ff;
-  margin-top: 1em;
 }
 
 .card-text {
@@ -14,4 +13,5 @@ img {
 
 .container {
   padding: 10px;
+  margin-top: 1em;
 }
