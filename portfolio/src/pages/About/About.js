@@ -8,7 +8,7 @@ class About extends Component {
         <div class="d-flex justify-content-center">
           <h3 id="intro">About Me</h3>
         </div>
-        <hr></hr>
+        <br></br>
         <div class="row">
           <div class="col-lg-3">
             <img src="https://avatars0.githubusercontent.com/u/29564904?s=460&v=4" alt="Profile Pic" />

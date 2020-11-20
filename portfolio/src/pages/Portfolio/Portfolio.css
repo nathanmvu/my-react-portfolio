@@ -1,8 +1,12 @@
 .card-title {
-  color:#4169e1;
+  color: #1e90ff;
 }
 
 .card {
-  height: auto; 
-  width: auto;
+  height: 350px; 
+  width: 350px;
+}
+
+.card-deck {
+  padding: 15px;
 }
