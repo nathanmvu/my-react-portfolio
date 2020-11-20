@@ -1,5 +1,6 @@
 #intro {
-  color:#4169e1
+  color: #1e90ff;
+  margin-top: 1em;
 }
 
 .card-text {
@@ -7,6 +8,10 @@
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 220px;
+  width: 220px;
+}
+
+.container {
+  padding: 10px;
 }

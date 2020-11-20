@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "WhimIt",
+    "image": "./assets/projects/whimit.png",
+    "github": "https://github.com/nathanmvu/WhimIt",
+    "deployed": "https://obscure-citadel-38973.herokuapp.com/"
+  },
+  {
+    "id": "2",
+    "title": "Faces of Berserk",
+    "image": "./assets/projects/faces-of-berserk.png",
+    "github": "https://github.com/nathanmvu/faces-of-berserk",
+    "deployed": "https://nathanmvu.github.io/faces-of-berserk/"
+  },
+  {
+    "id": "3",
+    "title": "Genius Test",
+    "image": "./assets/projects/genius.png",
+    "github": "https://github.com/nathanmvu/genius-test",
+    "deployed": "https://nathanmvu.github.io/genius-test/"
+  },
+  {
+    "id": "4",
+    "title": "Eat the Burger!",
+    "image": "./assets/projects/burger.png",
+    "github": "https://github.com/nathanmvu/burger",
+    "deployed": "https://sheltered-tundra-69850.herokuapp.com/"
+  },
+  {
+    "id": "5",
+    "title": "Drink to the Weather",
+    "image": "./assets/projects/drink to the weather.png",
+    "github": "https://github.com/nathanmvu/drink-to-the-weather",
+    "deployed": "https://nathanmvu.github.io/drink-to-the-weather/"
+  },
+  {
+    "id": "6",
+    "title": "Exercise Tracker",
+    "image": "./assets/projects/exercise.png",
+    "github": "https://github.com/nathanmvu/exercise-tracker",
+    "deployed": "https://blooming-forest-35913.herokuapp.com/"
+  }
+]

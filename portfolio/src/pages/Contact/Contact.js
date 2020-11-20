@@ -5,7 +5,7 @@ class Contact extends Component {
   render() {
     return (
       <div class="container">
-        <p class='card-text'>I currently live in Cupertino, CA and you can contact me at: </p>
+        <p class='card-text'>I currently live in Cupertino, CA and you can contact me via: </p>
         <p>Twitter: <a target='blank_' href="https://twitter.com/combinathan">@combinathan</a></p>
         <p>Github: <a href="https://github.com/nathanmvu">@nathanmvu</a></p>
         <p>LinkedIn: <a target='blank_' href="https://www.linkedin.com/in/nathan-vu/">nathan-vu</a></p>
