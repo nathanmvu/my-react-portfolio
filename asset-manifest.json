@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-portfolio/static/css/main.02141959.chunk.css",
+    "main.css": "/my-react-portfolio/static/css/main.cb001f1c.chunk.css",
     "main.js": "/my-react-portfolio/static/js/main.eb1fd734.chunk.js",
     "main.js.map": "/my-react-portfolio/static/js/main.eb1fd734.chunk.js.map",
     "runtime-main.js": "/my-react-portfolio/static/js/runtime-main.30fcb95f.js",
@@ -8,14 +8,13 @@
     "static/js/2.8eae6c25.chunk.js": "/my-react-portfolio/static/js/2.8eae6c25.chunk.js",
     "static/js/2.8eae6c25.chunk.js.map": "/my-react-portfolio/static/js/2.8eae6c25.chunk.js.map",
     "index.html": "/my-react-portfolio/index.html",
-    "static/css/main.02141959.chunk.css.map": "/my-react-portfolio/static/css/main.02141959.chunk.css.map",
-    "static/js/2.8eae6c25.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.8eae6c25.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/my-react-portfolio/static/media/dot-grid.c18d167e.png"
+    "static/css/main.cb001f1c.chunk.css.map": "/my-react-portfolio/static/css/main.cb001f1c.chunk.css.map",
+    "static/js/2.8eae6c25.chunk.js.LICENSE.txt": "/my-react-portfolio/static/js/2.8eae6c25.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.30fcb95f.js",
     "static/js/2.8eae6c25.chunk.js",
-    "static/css/main.02141959.chunk.css",
+    "static/css/main.cb001f1c.chunk.css",
     "static/js/main.eb1fd734.chunk.js"
   ]
 }
