@@ -14,3 +14,7 @@
 .container {
   margin-top: 1em;
 }
+
+.card-title {
+  color: black;
+}

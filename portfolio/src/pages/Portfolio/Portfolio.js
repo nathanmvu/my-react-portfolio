@@ -12,9 +12,11 @@ function Portfolio() {
         {projects.map(project => 
         <div key={project.id} class="card-deck">
           <div class='card'>
-            <a href={project.deployed} target="blank_"><img src={project.image} class="card-img-top" alt={project.title} /></a>
+            <img src={project.image} class="card-img-top" alt={project.title} />
             <div class="card-body">
-              <h5 class="card-title"><a href={project.github}>{project.title}</a></h5>
+              <h5 class="card-title">{project.title}</h5>
+              <p><a href={project.deployed} target="blank_">Website</a></p>
+              <p><a href={project.github} target="blank_">Github</a></p>
             </div>
           </div>
         </div>
