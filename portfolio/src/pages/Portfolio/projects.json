@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "title": "WhimIt",
-    "image": "./assets/projects/whimit.png",
-    "github": "https://github.com/nathanmvu/WhimIt",
-    "deployed": "https://obscure-citadel-38973.herokuapp.com/"
+    "title": "React Book Search",
+    "image": "./assets/projects/bookSearch.gif",
+    "github": "https://github.com/nathanmvu/react-book-search",
+    "deployed": "https://desolate-inlet-50471.herokuapp.com/"
   },
   {
     "id": "2",
@@ -22,10 +22,10 @@
   },
   {
     "id": "4",
-    "title": "Eat the Burger!",
-    "image": "./assets/projects/burger.png",
-    "github": "https://github.com/nathanmvu/burger",
-    "deployed": "https://sheltered-tundra-69850.herokuapp.com/"
+    "title": "WhimIt",
+    "image": "./assets/projects/whimit.png",
+    "github": "https://github.com/nathanmvu/WhimIt",
+    "deployed": "https://obscure-citadel-38973.herokuapp.com/"
   },
   {
     "id": "5",
